@@ -1,0 +1,50 @@
+[33mcommit fbca9badc7d6f22beb61a715a9f8b2217429927a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: marcoriedel <marcoriedel@gmail.com>
+Date:   Thu Feb 15 21:32:57 2018 -0300
+
+    First Commit
+
+[33mcommit baa64d426d5d0e1f54d913315c4b85e1bdecdbbf[m
+Merge: 1b3fb73 bd32ff3
+Author: Inti <ipiolanti@gmail.com>
+Date:   Wed Mar 16 10:20:21 2016 -0300
+
+    Merge pull request #17 from globant-ui/structure-update
+    
+    Updated folder structure to match new course. Fixed README
+
+[33mcommit bd32ff375eeb8adc4930acce8d7c66508918738e[m[33m ([m[1;31morigin/structure-update[m[33m)[m
+Author: Inti <inti.piolanti@globant.com>
+Date:   Wed Mar 16 10:17:04 2016 -0300
+
+    Update folder structure to match new practices definition
+
+[33mcommit ff77de2bd5a2e39a74c1e8314fe0de3de5d8ac5c[m
+Author: Inti <inti.piolanti@globant.com>
+Date:   Fri Mar 11 16:00:38 2016 -0300
+
+    Updated folder structure to match new course. Fixed README
+
+[33mcommit 1b3fb73ebf83099e7057641c87203fc325535871[m
+Author: Inti Piolanti <ipiolanti@gmail.com>
+Date:   Tue Dec 30 17:48:10 2014 -0300
+
+    Updated directories to match new Bootcamp topics
+
+[33mcommit 06ece5b444a35a68df4cde5cf237c87382f00339[m
+Author: Inti Piolanti <ipiolanti@gmail.com>
+Date:   Tue May 27 16:15:37 2014 -0300
+
+    Startup directory structure
+
+[33mcommit 925833a597b5692e9cfec21b799bbe3651715dbd[m
+Author: Globant <emilio.cabrera@globant.com>
+Date:   Mon Nov 12 10:31:24 2012 -0200
+
+    Update README.md
+
+[33mcommit 88adac8e86bd2040784a360aedd34b1a2b740e8f[m
+Author: Facundo Cabrera <cabrerafacundo@gmail.com>
+Date:   Mon Nov 12 00:20:33 2012 -0300
+
+    Initial structure
